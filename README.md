@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @astroxhacker
+- 👋 Hi, I’m Gaurav Suryawanshi (@astroxhacker)
 - 👀 I’m interested in Cyber Security, Web Developement, 
 - 🌱 I’m currently learning B.E. in information technology and cybersecurity from virtual cyber labs
 - 💞️ I’m looking to collaborate on cyber security projects and web developement projects.
