@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Gaurav Suryawanshi (@astroxhacker)
-- 👀 I’m interested in Cyber Security, Web Developement, 
-- 🌱 I’m currently learning B.E. in information technology and cybersecurity from virtual cyber labs
-- 💞️ I’m looking to collaborate on cyber security projects and web developement projects.
-- 📫 How to reach me you can DM me on my instagram handle, mail me at gauravss3703@gmail.com
+- 👀 I’m interested in Cyber Security, Web Developement.
+- 🌱 I’m currently pursuing my B.E. in information technology and cybersecurity in blue teaming.
+- 💞️ I’m looking to collaborate on big scale cyber security projects and web developement projects.
+- 📫 You can reach me via DM on my instagram handle _gaurav_7_7 or mail me at gauravss3703@gmail.com, you'll definitely receive reply within 48 hrs ✌.
 
 <!---
 astroxhacker/astroxhacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
