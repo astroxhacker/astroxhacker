@@ -5,7 +5,7 @@
 - 📫 You can reach me via DM on my linkedin handle https://www.linkedin.com/in/gauravss03/ or mail me at gauravss3703@gmail.com, you'll definitely receive reply within 24 hrs ✌.
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=astroxhacker&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=astroxhacker&theme=dark&hide_border=true&background=000000)](https://git.io/streak-stats)
 <!---
 astroxhacker/astroxhacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
