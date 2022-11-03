@@ -11,8 +11,12 @@
 
 # Tools and languages used
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,figma,linux,mongodb,vscode,wordpress,py)](https://skillicons.dev)
+ # Leetcode stats
+ [![](https://stats.justsong.cn/api/leetcode/?username=astroxhacker&theme=dark)]
 <!---
 astroxhacker/astroxhacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Avior's code::stats stats](https://codestats-readme.vercel.app/api?username=astroxhacker)](https://github.com/Aviortheking/codestats-readme)
+
 ![contributions](https://user-images.githubusercontent.com/109857735/199249966-32d1c2ab-19f9-4e61-b81f-22ad9642a907.svg)
