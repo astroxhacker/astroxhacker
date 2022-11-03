@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astroxhacker)](https://github.com/anuraghazra/github-readme-stats)
 
 # Tools and languages used
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,figma,linux,mongodb,vscode,wordpress,py)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,figma,linux,mongodb,vscode,wordpress,py)](https://skillicons.dev)
 <!---
 astroxhacker/astroxhacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
