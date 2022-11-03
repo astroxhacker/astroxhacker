@@ -1,22 +1,49 @@
-- 👋 Hi, I’m Gaurav Suryawanshi (@astroxhacker)
-- 👀 I’m engaged in Cyber Security, Web Developement.
-- 🌱 I’m currently pursuing my B.E. in information technology and cybersecurity in blue teaming.
-- 💞️ I’m looking to collaborate on big scale cyber security projects and web developement projects / Software Developmenet projects.
-- 📫 You can reach me via DM on my linkedin handle https://www.linkedin.com/in/gauravss03/ or mail me at gauravss3703@gmail.com, you'll definitely receive reply within 24 hrs ✌.
+<p align="center">
+Hii myself Gaurav Suryawanshi (@astroxhacker) 👋
+</p>
+<p align="center">
+ 👀 I’m quite engaged in Cyber Security, Web Developement.
+</p>
+<p align="center">
+ 🌱 I’m currently pursuing my B.E. in information technology and cybersecurity in blue teaming.
+</p>
+<p align="center">
+💞️ I’m looking to collaborate on big scale cyber security projects and web developement projects / Software Developmenet projects.
+</p>
+<p align="center">
+ 📫 You can reach me via DM on my linkedin handle<a href="https://www.linkedin.com/in/astroxhacker/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/>
+</a> or mail me at gauravss3703@gmail.com, you'll definitely receive reply within 24 hrs ✌.
+</p>
+ 
+<!-- [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zluvsand/) -->
+ 
 # My streak status on github
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=astroxhacker&theme=dark&hide_border=true&background=000000)](https://git.io/streak-stats)
+<p align="center">
+    <img width="600" src="https://github-readme-streak-stats.herokuapp.com?user=astroxhacker&theme=dark&hide_border=true&background=000000">
+</p>
 
 # Languages used by me
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astroxhacker)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astroxhacker">
+</p>
 
 # Tools and languages used
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,figma,linux,mongodb,vscode,wordpress,py)](https://skillicons.dev)
- # Leetcode stats
- [![](https://stats.justsong.cn/api/leetcode/?username=astroxhacker&theme=dark)]
-<!---
-astroxhacker/astroxhacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![Avior's code::stats stats](https://codestats-readme.vercel.app/api?username=astroxhacker)](https://github.com/Aviortheking/codestats-readme)
+<p align="center">
+    <img width="600" src="https://skillicons.dev/icons?i=js,html,css,bootstrap,django,figma,linux,mongodb,vscode,wordpress,py">
+</p>
 
-![contributions](https://user-images.githubusercontent.com/109857735/199249966-32d1c2ab-19f9-4e61-b81f-22ad9642a907.svg)
+# Leetcode stats
+<p align="center">
+<img width="600" src="https://stats.justsong.cn/api/leetcode/?username=astroxhacker&theme=dark">
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/109857735/199702866-630acb6d-89eb-4599-8909-2579522a43b9.svg">
+</p>
+
+# Connect with me
+<a href="https://www.linkedin.com/in/gauravss03/">
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
