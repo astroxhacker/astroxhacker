@@ -20,7 +20,7 @@ Hii myself Gaurav Suryawanshi (@astroxhacker) 👋
  
 # My streak status on github
 <p align="center">
-    <img width="600" src="https://github-readme-streak-stats.herokuapp.com?user=astroxhacke&theme=dark&hide_border=true&background=000000">
+    <img width="600" src="https://github-readme-streak-stats.herokuapp.com?user=astroxhacker&theme=dark&hide_border=true&background=000000">
 </p>
 
 # Languages used by me
