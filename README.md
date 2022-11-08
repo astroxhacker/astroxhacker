@@ -1,4 +1,4 @@
-<p align="center"<b>>
+<p align="center">
 Hii myself Gaurav Suryawanshi (@astroxhacker) 👋
 </p>
 <p align="center">
