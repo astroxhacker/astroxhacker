@@ -11,7 +11,7 @@ Hii myself Gaurav Suryawanshi (@astroxhacker) 👋
 💞️ I’m looking to collaborate on big scale cyber security projects and web developement projects / Software Developmenet projects.
 </p>
 <p align="center">
- 📫 You can reach me via DM on my linkedin handle<a href="https://www.linkedin.com/in/astroxhacker/">
+ 📫 You can reach me via DM on my linkedin handle<a href="https://www.linkedin.com/in/gauravss03/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/>
 </a> or mail me at gauravss3703@gmail.com, you'll definitely receive reply within 24 hrs ✌.
 </p>
