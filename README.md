@@ -18,16 +18,16 @@ Hii myself Gaurav Suryawanshi (@astroxhacker) 👋
  
 <!-- [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zluvsand/) -->
  
-<!-- # My streak status on github
+# My streak status on github
 <p align="center">
     <img width="600" src="https://github-readme-streak-stats.herokuapp.com?user=astroxhacker&theme=dark&hide_border=true&background=000000">
-</p> -->
+</p>
 
-# Languages used by me
+<!-- # Languages used by me
 
 <p align="center">
     <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astroxhacker">
-</p>
+</p> -->
 
 # Tools and languages used
 <p align="center">
