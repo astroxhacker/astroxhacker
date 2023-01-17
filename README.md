@@ -15,7 +15,11 @@ Hii myself Gaurav Suryawanshi (@astroxhacker) 👋
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
- 
+
+# Tryhackme Profile Badge ID
+<p font-size=10 align="center">
+In the Top 5% on Tryhackme
+</p>
 <!-- [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zluvsand/) -->
  
 <!-- # My streak status on github
@@ -28,8 +32,6 @@ Hii myself Gaurav Suryawanshi (@astroxhacker) 👋
 <p align="center">
     <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astroxhacker">
 </p> -->
-
-# Tryhackme Profile Badge ID
 
 <p align="center">
     <img src="https://tryhackme-badges.s3.amazonaws.com/ImXastronaut.png" alt="TryHackMe">
