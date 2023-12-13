@@ -39,7 +39,7 @@ In the Top 5% on Tryhackme
 
 # Tools and languages used
 <p align="center">
-    <img width="600" src="https://skillicons.dev/icons?i=js,html,css,bootstrap,django,figma,linux,mongodb,vscode,wordpress,py">
+    <img width="600" src="https://skillicons.dev/icons?i=js,html,css,bootstrap,django,figma,linux,mongodb,vscode,wordpress,py,react">
 </p>
 
 <!-- # Leetcode stats
