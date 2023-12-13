@@ -42,10 +42,10 @@ In the Top 5% on Tryhackme
     <img width="600" src="https://skillicons.dev/icons?i=js,html,css,bootstrap,django,figma,linux,mongodb,vscode,wordpress,py">
 </p>
 
-# Leetcode stats
+<!-- # Leetcode stats
 <p align="center">
 <img width="600" src="https://stats.justsong.cn/api/leetcode/?username=astroxhacker&theme=dark">
-</p>
+</p>-->
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/109857735/199702866-630acb6d-89eb-4599-8909-2579522a43b9.svg">
