@@ -13,12 +13,11 @@ Hii myself Gaurav Suryawanshi (@astroxhacker) 👋
 <p align="center">
  📫 You can reach me via DM on my linkedin handle
  <a href="https://www.linkedin.com/in/gauravss03/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/>
-</a>
- handle or 
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/></a>
+ or Portfolio Website 
   <a href="https://gauravsuryawanshi.pages.dev/">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a> Website
+</a> 
 </p>
 
 # Tryhackme Profile Badge ID
