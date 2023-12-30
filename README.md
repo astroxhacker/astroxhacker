@@ -11,9 +11,14 @@ Hii myself Gaurav Suryawanshi (@astroxhacker) 👋
 💞️ I’m looking to collaborate on big scale cyber security projects and web developement projects / Software Developmenet projects.
 </p>
 <p align="center">
- 📫 You can reach me via DM on my linkedin handle<a href="https://www.linkedin.com/in/gauravss03/">
+ 📫 You can reach me via DM on my linkedin handle
+ <a href="https://www.linkedin.com/in/gauravss03/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/>
 </a>
+ handle or 
+  <a href="https://gauravsuryawanshi.pages.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a> Website
 </p>
 
 # Tryhackme Profile Badge ID
@@ -52,6 +57,8 @@ In the Top 5% on Tryhackme
 </p>
 
 # Connect with me
-<a href="https://www.linkedin.com/in/gauravss03/">
+<!-- <a href="https://www.linkedin.com/in/gauravss03/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
-</a>
+</a> -->
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gauravss03/) [![My Skills](https://skillicons.dev/icons?i=gamemakerstudio)](https://gauravsuryawanshi.pages.dev/)
